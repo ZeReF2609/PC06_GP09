@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.tlog
+*.obj
+*.pdb
+*.ilk
+*.ipch
+*.log
+*.idb
+*.tli
+*.tlh
+*.iobj
+*.ipdb
+*.VC.db
+*.VC.opendb
+.opencode/
